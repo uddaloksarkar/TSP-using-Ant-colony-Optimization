@@ -62,6 +62,3 @@ while i<=(iter_max)
         plot([city(bst(li),1),city(bst(li+1),1)],[city(bst(li),2),city(bst(li+1),2)])
     end
 end
-%for li=1:cities-1
-%    plot([city(bst(li),1),city(bst(li+1),1)],[city(bst(li),2),city(bst(li+1),2)])
-%end
